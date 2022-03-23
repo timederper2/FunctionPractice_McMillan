@@ -22,5 +22,5 @@ int main()
   
   }while(option != "e" && option != "E"); //DeMorgan's Law!!! 
   cout << "\nGoodbye. Hasta luego." << endl;
-  return 0; 
+  return 0; //Dr. Tyson McMillan's starter code
 }

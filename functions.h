@@ -7,7 +7,7 @@ Teacher: Dr_T 10-17-2019, updated 3-24-2020 (clear screen methods for Ubuntu)
 #define FUNCTIONS_H
 //put libraries here
 #include <iostream>
-#include<string>
+#include <string>
 #include "Input_Validation_Extended.h" 
 using namespace std;
 
